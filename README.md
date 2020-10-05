@@ -1,2 +1,2 @@
 # MRI Threshold Selector
-Program to select membership probabilities from anatomical MRI scans
+Program to select membership probability thresholds from anatomical MRI scans
